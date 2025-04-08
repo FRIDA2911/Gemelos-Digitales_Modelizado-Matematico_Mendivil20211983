@@ -1,7 +1,7 @@
 # Gemelos Digitales:Modelizado Matematico_Mendivil2021198
 Frida Daniela Mendivil Ramirez
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20212527@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20211983@tectijuana.edu.mx
 
 # Resumen de la práctica
 En esta práctica se construyó y analizó un modelo mecanicista para describir la dinámica entre dos variables biológicas, a partir de datos experimentales. El modelo se formuló como un sistema de ecuaciones diferenciales ordinarias de primer orden. La estimación de parámetros se realizó mediante algoritmos de regresión no lineal, evaluando su significancia estadística mediante el cálculo de errores estándar, intervalos de confianza al 95 % y el coeficiente de determinación. Como parte del análisis cualitativo del sistema, se identificaron cuatro puntos de equilibrio y se estudió la estabilidad asintótica local de cada uno mediante el cálculo del Jacobiano y el análisis de sus valores propios. Esta práctica integró herramientas computacionales, matemáticas y estadísticas con el objetivo de modelar con precisión las interacciones dinámicas entre variables biológicas, aportando fundamentos teóricos para futuras simulaciones y análisis globales.
