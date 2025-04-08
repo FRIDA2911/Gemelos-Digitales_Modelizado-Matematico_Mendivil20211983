@@ -1,4 +1,4 @@
-# Gemelos Digitales Modelizado-Matematico-Mendivil-2021198
+# Gemelos Digitales:Modelizado Matematico_Mendivil2021198
 Frida Daniela Mendivil Ramirez
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L20212527@tectijuana.edu.mx
